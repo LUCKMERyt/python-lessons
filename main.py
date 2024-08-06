@@ -15,8 +15,8 @@
 # a = '28.5'
 # b = 24
 # print(float(a) + b)
-t = 21
-v = '67%'
-text = 'Теипиратура на улице:'
-text2 = ", влажнасть: "
-print(text+ str(t) + text2 + str(v))
+# t = 21
+# v = '67%'
+# text = 'Теипиратура на улице:'
+# text2 = ", влажнасть: "
+# print(text+ str(t) + text2 + str(v))
