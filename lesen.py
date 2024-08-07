@@ -21,5 +21,29 @@
 # b = "Троло-ло-ло-ло"
 # print(b.replace("о", "а"))
 
-t = int(input("Какая темпиритура?"))
-s
+# t = int(input("Какая темпиритура?"))
+
+# while a>0:           пока условие не совпадает
+#     a = a - 1        выполняетсся другие действек
+#     print
+
+
+# colors = {1:'red', 2: ' green'} ключь
+# for color in colors:            цикл
+#     if colors[color] != 'red':  ещет чтобы в ключе неюыло слова 'red'
+#       print(' ', colors[color])     печатает чвета которые находятся в ключе
+
+
+# import random          импорт без него никак
+
+# number = random.random()  # значение от 0.0 до 1.0
+# print(number)
+# number = random.random() * 100  # значение от 0.0 до 100.0
+# print(number)
+
+# number = random.randint(20, 35)  # значение от 20 до 35
+# print(number)
+
+# for _ in range(10):                          цикл из 10 повторений
+#     random_number = random.randint(0, 100)   рандом от 0 до 100
+#     print(random_number)

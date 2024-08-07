@@ -1,0 +1,15 @@
+
+events = {1: "message", 2: "news"}
+for i in events:
+    if events[i] == "message":
+        print("Новое сообшение")
+
+
+# message = input()
+# while True:
+#     if message == "Привет":
+#         print("Привет")
+#     elif message == "Как дела?":
+#         print("Хорошо")
+#     else:
+#         print("даже не знаю что сказать")
