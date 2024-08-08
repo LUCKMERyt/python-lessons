@@ -47,3 +47,5 @@
 # for _ in range(10):                          цикл из 10 повторений
 #     random_number = random.randint(0, 100)   рандом от 0 до 100
 #     print(random_number)
+
+# random.uniform(0.5, 3)        рандомит от 0,5 секунд до 3
